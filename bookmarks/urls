@@ -2,6 +2,8 @@ http://localhost local
 https://web.whatsapp.com/ wpp
 https://staging.boomsistemas.com.br staging
 https://boomsistemas.com.br production
-http://music.youtube.com youtube
+http://music.youtube.com youtube-music
+http://youtube.com youtube
 https://app.innerai.com/ innerai
 https://openai.com/chatgpt/overview chatgpt
+http://localhost:7777/ dbgate
